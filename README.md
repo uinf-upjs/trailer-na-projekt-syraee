@@ -14,4 +14,6 @@ DiscMaster je aplikácia pre nováčikov aj skúsených hráčov Ultimate Frisbe
 3. https://play.google.com/store/apps/details?id=com.turanapps.eventreminder
 - použijem myšlienku kalendára a eventov
 
-Moja aplikácia bude mix týchto funkcionalít a pridanie zapisovania hodov a získavanie achievmentov
+Moja aplikácia bude mix týchto funkcionalít a pridanie zapisovania hodov a získavanie achievmentov.
+
+
