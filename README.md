@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VfT8U4Cl)
 
 # DiscMaster
-DiscMaster je aplikácia pre nováčikov aj skúsených hráčov Ultimate Frisbee. Hlavnou funkcionalitou je zápis počtu hodov a štýl hodov a následne získavanie achievmentov/odznakov. Pomôže to motivovať hráčov sa zdokonaľovať v hádzaní a budú za to odmeňovaní. Každý hráč si vie zapísať do kalendára spomienku na turnaj, ktorého sa zúčastnil alebo zúčastní, pridať čo sa naučil a aj pridania fotografie. Je ešte možnosť si pozrieť aktuálne pravidlá a všetko potrebné k hre.
+DiscMaster je aplikácia pre nováčikov aj skúsených hráčov Ultimate Frisbee. Hlavnou funkcionalitou je zápis počtu hodov a štýl hodov a následne získavanie achievmentov/odznakov. Pomôže to motivovať hráčov sa zdokonaľovať v hádzaní a budú za to odmeňovaní. Každý hráč si vie zapísať do kalendára spomienku na turnaj, ktorého sa zúčastnil alebo zúčastní, pridať čo sa naučil a pridať fotografie. Je ešte možnosť si pozrieť aktuálne pravidlá, techniky hodov a všetko potrebné k hre.
 
 ## Podobné aplikácie 
 
